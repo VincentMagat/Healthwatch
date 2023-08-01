@@ -15,8 +15,8 @@
 
 
  // your network password (use for WPA, or use as key for WEP)
-char ssid[]= "Josh";
-char pass[]="iotCS596";
+char ssid[]= "";
+char pass[]="";
 const char kHostname[] = "";
 // Path to download (this is the bit after the hostname in the URL
 // that you want to download
